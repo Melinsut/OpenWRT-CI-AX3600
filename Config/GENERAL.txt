@@ -2,7 +2,6 @@
 
 #增加插件
 CONFIG_PACKAGE_luci-app-upnp=y
-
 #删除插件
 CONFIG_PACKAGE_luci-app-wol=n
 #参数调整
